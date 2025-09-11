@@ -137,7 +137,7 @@ const ProjectsSection = () => {
                     disabled={project.liveDemo === "#"}
                   >
                     <a
-                        
+                      href={project.liveDemo}
                       target="_blank"
                       rel="noopener noreferrer"
                       className={project.liveDemo === "#" ? "pointer-events-none opacity-50" : ""}
