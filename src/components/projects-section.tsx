@@ -49,11 +49,11 @@ const ProjectsSection = () => {
       status: "Live"
     },
     {
-      title: "E-Commerce Website",
-      description: "An e-commerce website with product listings, cart, checkout, and secure user authentication, built for a seamless shopping experience.",
-      tech: ["React.js", "Tailwind CSS", "Framer Motion"],
+      title: "Credit-Based Loan Prediction System",
+      description: "A machine learning system that predicts loan approval by analyzing credit history, income, and financial behavior. Built with Logistic Regression and Random Forest algorithms for accurate, data-driven lending decisions with real-time eligibility prediction.",
+      tech: ["Python", "Scikit-learn", "Pandas", "NumPy", "Random Forest and Logistic Regression" , "Matplotlib"],
       liveDemo: "#",
-      github: "#",
+      github: "https://github.com/Kushagra25-hub/CreditWise-Loan-Systtem.git",
       status: "Upcomming"
     }
   ];
