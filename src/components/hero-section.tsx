@@ -7,7 +7,7 @@ const HeroSection = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [typewriterText, setTypewriterText] = useState("");
 
-  const fullText = "Web Developer | B.Tech CSE Student";
+  const fullText = "Web Developer | B.Tech CSE Student | AIML";
 
   useEffect(() => {
     setIsVisible(true);
