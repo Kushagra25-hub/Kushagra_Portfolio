@@ -54,7 +54,7 @@ const ProjectsSection = () => {
       tech: ["Python", "Scikit-learn", "Pandas", "NumPy", "Random Forest and Logistic Regression" , "Matplotlib"],
       liveDemo: "#",
       github: "https://github.com/Kushagra25-hub/CreditWise-Loan-Systtem.git",
-      status: "Upcomming"
+      status: "Logic Building"
     }
   ];
 
