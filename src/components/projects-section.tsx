@@ -43,7 +43,7 @@ const ProjectsSection = () => {
     {
       title: "Snap-Class-AI-Attendance",
       description: "Developed a multimodal AI attendance platform that combines facial recognition and voice authentication for secure and automated attendance tracking, featuring real-time verification and attendance management.",
-      tech: ["Python, Streamlit, OpenCV, Face Recognition, Speech Recognition, Machine Learning, Pandas, NumPy"],
+      tech: ["Python", "Streamlit", "OpenCV", "Face Recognition", "Speech Recognition", "Machine Learning", "Pandas", "NumPy"],
       liveDemo: "https://snapclass-ai-attendance-frontend.vercel.app/",
       github: "https://github.com/Kushagra25-hub/supabase-AI-Attendance.git",
       status: "Live"
